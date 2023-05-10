@@ -113,5 +113,66 @@ span{
     }
 }
 
+.navbar_container2{
+    display: grid;
+    grid-template-columns: repeat(6,auto);
+    width: 100%;
+    background-color: #e47c7c;
+    color: white;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    height: 50px;
+    padding: 0px;
+    margin: 0px;
+    align-items: center;
+}
+.navbar_container2 li{
+    list-style: none;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   
+}
+.navbar_container2 li a{
+    text-decoration: none;
+    color: white;
+}
+.navbar_container2 li a:hover{
+    color: #e47c7c;
+    background-color: white;
+}
+#lista-excursiones{
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    justify-content: center;
+    column-gap: 60px;
+    margin: 10px;
+
+}
+.card{
+    box-shadow: 0 0 0.675rem 0.075rem rgba(0,0,0,.2);
+    width: 600px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.img-card{
+    width: 300px;
+    height: 190px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+}
+.img-card img{
+    object-fit: cover;
+    height: 175px;
+    width: auto;
+    border-radius: 5px;
+}
+
+#categorias{
+    margin-top: 5px;
+}
 
 
