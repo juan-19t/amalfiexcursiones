@@ -11,7 +11,7 @@ const mostrarData = (data) =>{
     console.log(data.hits);
     let body ='';
     for(let i = 0; i<data.hits.length; i++){
-        body += `<div class="container_imagenes"><img src=${data.hits[i].largeImageURL} alt=""></div>`
+        body += `<div class="container_imagenes"><a href=${data.hits[i].largeImageURL} target="_blank"><img src=${data.hits[i].largeImageURL} alt=""></a></div>`
         }
     containerGaleria.innerHTML = body;
 }
