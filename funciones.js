@@ -5,7 +5,8 @@ let listaDeExcursiones = [
         idioma: "ESPAÑOL",
         comida: "No incluye comida",
         precio: "90 €",
-        categoria: "Paseos en barco"
+        categoria: "Paseos en barco",
+        imagen:"./imagenes/imagen1.jpg"
     },
     {
         excursion: "Excursion a la isla de Capri",
@@ -13,63 +14,71 @@ let listaDeExcursiones = [
         idioma: "ESPAÑOL",
         comida: "No incluye comida",
         precio: "€ 75",
-        categoria: "Paseos en barco"
+        categoria: "Paseos en barco",
+        imagen:"./imagenes/imagen2.jpg"
     },
     {
         excursion: "Excursion en barco por la Costa Amalfitana",
         duración: "9 HORAS",
         idioma: "ESPAÑOL e INGLES",
-        comida: "Si, incluye almuerzo y merienda",
+        comida: "Incluye almuerzo y merienda",
         precio: "€ 120",
-        categoria: "Paseos en barco"
+        categoria: "Paseos en barco",
+        imagen:"./imagenes/imagen3.jpg"
     },
     {
         excursion: "Paseo en barco al atardecer",
         duración: "3 HORAS",
         idioma: "ESPAÑOL",
-        comida: "Si, incluye merienda",
+        comida: "Incluye merienda",
         precio: "€ 105",
-        categoria: "Paseos en barco"
+        categoria: "Paseos en barco",
+        imagen:"./imagenes/imagen4.jpg"
     },
     {
         excursion: "Paseo en barco por la peninsula de Sorrento",
         duración: "4m - 30m",
         idioma: "ESPAÑOL e ITALIANO",
-        comida: "No, no incluye comidas",
+        comida: "No incluye comidas",
         precio: "€ 66",
-        categoria: "Paseos en barco"
+        categoria: "Paseos en barco",
+        imagen:"./imagenes/imagen5.jpg"
     },
     {
         excursion: "Tour gastronomico por Salerno",
         duración: "4m - 30m",
         idioma: "ESPAÑOL e ITALIANO",
-        comida: "Si, incluye desgustaciones",
+        comida: "Incluye desgustaciones",
         precio: "€ 79",
-        categoria: "Gastronomía y enoturismo"
+        categoria: "Gastronomía y enoturismo",
+        imagen:"./imagenes/imagen6.jpg"
     },
     {
         excursion: "Taller de pizzas",
         duración: "3 HORAS",
         idioma: "ESPAÑOL e ITALIANO",
-        comida: "No, no incluye comidas",
+        comida: "No incluye comidas",
         precio: "€ 65",
-        categoria: "Gastronomía y enoturismo"
+        categoria: "Gastronomía y enoturismo",
+        imagen:"./imagenes/imagen7.jpg"
     },
     {
         excursion: "Tour de comida callejera por Sorrento",
         duración: "3 HORAS",
         idioma: "ESPAÑOL e ITALIANO",
-        comida: "Si, incluye desgustaciones",
+        comida: "Incluye desgustaciones",
         precio: "€ 65",
-        categoria: "Gastronomía y enoturismo"
+        categoria: "Gastronomía y enoturismo",
+        imagen:"./imagenes/imagen8.jpg"
     },
     {
         excursion: "Clase de cocina italiana en Sorrento",
         duración: "3 HORAS",
         idioma: "ESPAÑOL e ITALIANO",
-        comida: "Si, incluye un almuerzo",
+        comida: "Incluye un almuerzo",
         precio: "€ 85",
-        categoria: "Gastronomía y enoturismo"
+        categoria: "Gastronomía y enoturismo",
+        imagen:"./imagenes/imagen9.jpg"
     },
     {
         excursion: "Trekking por el Sendero del Príncipe",
@@ -77,7 +86,8 @@ let listaDeExcursiones = [
         idioma: "ESPAÑOL e INGLES",
         comida: "No incluye comidas",
         precio: "€ 15",
-        categoria: "Acción y naturaleza"
+        categoria: "Acción y naturaleza",
+        imagen:"./imagenes/imagen10.jpg"
     },
     {
         excursion: "Senderismo por el Vesubio",
@@ -85,7 +95,8 @@ let listaDeExcursiones = [
         idioma: "ITALIANO e INGLES",
         comida: "Incluye una merienda",
         precio: "€ 43",
-        categoria: "Acción y naturaleza"
+        categoria: "Acción y naturaleza",
+        imagen:"./imagenes/imagen11.jpg"
     },
     {
         excursion: "Snorkel en Sorrento",
@@ -93,7 +104,8 @@ let listaDeExcursiones = [
         idioma: "ITALIANO y ESPAÑOL",
         comida: "Incluye una merienda",
         precio: "€ 73",
-        categoria: "Acción y naturaleza"
+        categoria: "Acción y naturaleza",
+        imagen:"./imagenes/imagen12.jpg"
     },
     {
         excursion: "Senderismo por el monte Faito",
@@ -101,7 +113,8 @@ let listaDeExcursiones = [
         idioma: "ITALIANO y ESPAÑOL",
         comida: "No incluye comidas",
         precio: "€ 26",
-        categoria: "Acción y naturaleza"
+        categoria: "Acción y naturaleza",
+        imagen:"./imagenes/imagen1.jpg"
     },
     {
         excursion: "Senderismo por el monte San Liberatore",
@@ -109,7 +122,8 @@ let listaDeExcursiones = [
         idioma: "ITALIANO y ESPAÑOL",
         comida: "Incluye una merienda",
         precio: "€ 49",
-        categoria: "Acción y naturaleza"
+        categoria: "Acción y naturaleza",
+        imagen:"./imagenes/imagen2.jpg"
     },
     {
         excursion: "Tirolesa en la Costa Amalfitana",
@@ -117,7 +131,8 @@ let listaDeExcursiones = [
         idioma: "ITALIANO y ESPAÑOL",
         comida: "No incluye comidas",
         precio: "€ 40",
-        categoria: "Acción y naturaleza"
+        categoria: "Acción y naturaleza",
+        imagen:"./imagenes/imagen3.jpg"
     },
     {
         excursion: "Visita guiada por Pompeya",
@@ -125,7 +140,8 @@ let listaDeExcursiones = [
         idioma: "ITALIANO y ESPAÑOL",
         comida: "Incluye un almuerzo",
         precio: "€ 55",
-        categoria: "Visitas guiadas"
+        categoria: "Visitas guiadas",
+        imagen:"./imagenes/imagen4.jpg"
     },
     {
         excursion: "Visita guiada por Salerno",
@@ -133,7 +149,8 @@ let listaDeExcursiones = [
         idioma: "ITALIANO",
         comida: "No incluye comidas",
         precio: "€ 49",
-        categoria: "Visitas guiadas"
+        categoria: "Visitas guiadas",
+        imagen:"./imagenes/imagen5.jpg"
     },
     {
         excursion: "Tour privado por Positano",
@@ -141,7 +158,8 @@ let listaDeExcursiones = [
         idioma: "ESPAÑOL",
         comida: "Incluye un almuerzo y una merienda",
         precio: "€ 210 (por grupo)",
-        categoria: "Visitas guiadas"
+        categoria: "Visitas guiadas",
+        imagen:"./imagenes/imagen6.jpg"
     },
     {
         excursion: "Visita guiada por el castillo de Lettere",
@@ -149,7 +167,8 @@ let listaDeExcursiones = [
         idioma: "ITALIANO y ESPAÑOL",
         comida: "No incluye comidas",
         precio: "€ 30",
-        categoria: "Visitas guiadas"
+        categoria: "Visitas guiadas",
+        imagen:"./imagenes/imagen7.jpg"
     },
     {
         excursion: "Visita guiada por la villa de Oplontis",
@@ -157,7 +176,8 @@ let listaDeExcursiones = [
         idioma: "ESPAÑOL",
         comida: "Incluye un almuerzo y una merienda",
         precio: "€ 200 (por grupo)",
-        categoria: "Visitas guiadas"
+        categoria: "Visitas guiadas",
+        imagen:"./imagenes/imagen8.jpg"
     },
     {
         excursion: "Entrada a la villa romana de Oplontis",
@@ -165,7 +185,8 @@ let listaDeExcursiones = [
         idioma: "ESPAÑOL",
         comida: "-",
         precio: "€ 17",
-        categoria: "espectaculos y entradas"
+        categoria: "espectaculos y entradas",
+        imagen:"./imagenes/imagen9.jpg"
     },
     {
         excursion: "Concierto de ópera en el museo Correale",
@@ -173,7 +194,8 @@ let listaDeExcursiones = [
         idioma: "ITALIANO",
         comida: "-",
         precio: "€ 45",
-        categoria: "espectaculos y entradas"
+        categoria: "espectaculos y entradas",
+        imagen:"./imagenes/imagen10.jpg"
     }
 ]
 
@@ -188,17 +210,17 @@ let seccionLista = document.getElementById('lista-excursiones');
 
 function render (valor){
     
-
-    
     let result = listaDeExcursiones.filter(excursion=>excursion.categoria== valor)
     seccionLista.innerHTML=``;
 
     for(let i=0;i<result.length;i++){
         seccionLista.innerHTML+=`<div class="card">
-        <div class="img-card"><img src="./imagenes/pexels-ana-eva-4155240.jpg" alt=""></div>
+        <div class="img-card">
+            <img src=${result[i].imagen} alt="">
+        </div>
         <div class="info-card">
             <h1>${result[i].excursion}</h1>
-            <p>Duración:${result[i].duración} </p>
+            <p>Duración: ${result[i].duración} </p>
             <p>Idioma: ${result[i].idioma}</p>
             <p>${result[i].comida}</p>
             <p class="precio">${result[i].precio}</p>
