@@ -115,7 +115,7 @@ span{
 
 .navbar_container2{
     display: grid;
-    grid-template-columns: repeat(6,auto);
+    grid-template-columns: repeat(5,auto);
     width: 100%;
     background-color: #e47c7c;
     color: white;
