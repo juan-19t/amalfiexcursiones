@@ -7,7 +7,7 @@ Enzo Tita Dolce - Juan Paulo Trentino
 [link](https://github.com/juan-19t/amalfiexcursiones)
 
 ## Link navegable
-Click aqui -> [link](https://amalfiexcursiones-bv33-git-juan-juan-19t.vercel.app/)
+Click aqui -> [link](https://amalfiexcursiones-bv33.vercel.app/)
 
 ## Tecnologias utilizadas en este proyecto:
 HTML5 - CSS3 - JavaScript
